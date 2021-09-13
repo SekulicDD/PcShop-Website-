@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap:https://phpdavid1.000webhostapp.com/

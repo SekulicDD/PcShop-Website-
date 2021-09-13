@@ -1,0 +1,14 @@
+<rss version="2.0">
+	<channel>
+	<item>
+      <title>Buy our products</title>
+      <description>Buy latest products from our collection</description>
+      <link>https://phpdavid1.000webhostapp.com/products.html</link>
+    </item>	
+    <item>
+      <title>Contact us</title>
+      <description>Feel free to contact us</description>
+      <link>https://phpdavid1.000webhostapp.com/contact.html</link>
+    </item>
+  </channel>
+</rss>
